@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ceyda Önal</h1>
-<h3 align="center">A passionate Java developer from Turkey in Denizli</h3>
+<h3 align="center">A passionate Python developer from Turkey in Antalya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceydaonal11&label=Profile%20views&color=0e75b6&style=flat" alt="ceydaonal11" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying in **Pamukkale University Management Information Systems**
 
-- 🌱 I’m currently learning **Java,SQL**
+- 🌱 I’m currently learning **Python,SQL**
 
 - 💻 I love writing **code and learn anything about it**
 
